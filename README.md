@@ -1,6 +1,6 @@
 # MAHURI_teleop
 
-Tele operastor node for MAHURI Android app.
+Tele operator node for MAHURI Android app.
 
 ## Dependencies:
 
